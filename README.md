@@ -6,7 +6,7 @@
 🤝 Estoy abierto a aprender más sobre prácticas DevOps  
 🌱 Actualmente estoy aprendiendo Docker, Kubernetes y CI/CD  
 💬 Pregúntame sobre APIs, bases de datos o frameworks backend  
-⚡ Fun fact: Me encanta aprender cosas nuevas
+⚡ Fun fact: *i use Arch, BTW* <img src="https://archlinux.org/logos/archlinux-icon-crystal-256.svg" alt="arch" width="20"/>
 
 # 🧑‍💻 Lenguajes
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
