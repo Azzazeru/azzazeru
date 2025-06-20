@@ -4,7 +4,7 @@
 🔭 Actualmente trabajo como desarrollador backend  
 👯 Busco colaborar en proyectos open source o backend  
 🤝 Estoy abierto a aprender más sobre prácticas DevOps  
-🌱 Actualmente estoy aprendiendo Docker, Kubernetes y CI/CD
+🌱 Actualmente estoy aprendiendo Docker, Kubernetes y CI/CD  
 💬 Pregúntame sobre APIs, bases de datos o frameworks backend  
 ⚡ Fun fact: Me encanta aprender cosas nuevas
 
