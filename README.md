@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aaron Fuentes (Azzazeru)
+# 👋 Hi, I'm Aaron Fuentes (Azzazeru/Azzazel)
 
 # 💫 Sobre mí:
 🔭 Actualmente trabajo como desarrollador backend  
@@ -46,5 +46,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azzazeru&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 𝕬zzᥲzᥱᥣ / 𝕬zzᥲzᥱrᥙ
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
