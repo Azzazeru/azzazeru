@@ -62,12 +62,8 @@
 
 ---
 
-<a href="http://www.github.com/azzazeru">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=azzazeru&stroke=ffffff&background=1c1917&ring=ff6b35&fire=ff3b0a&currStreakNum=ffd166&currStreakLabel=ff6b35&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-    width="100%" 
-  />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=azzazeru&stroke=ffffff&background=1c1917&ring=ff6b35&fire=ff3b0a&currStreakNum=ffd166&currStreakLabel=ff6b35&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&v=1)
+
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣤⣤⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠶⣻⠝⠋⠠⠔⠛⠁⡀⠀⠈⢉⡙⠓⠶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
