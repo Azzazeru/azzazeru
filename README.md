@@ -1,4 +1,4 @@
-<h1 align="center">Aaron Fuentes (Azzazel / Azzazeru アザゼル)</h1>
+<h1 align="center">Aaron I. Fuentes D. (Azzazel / Azzazeru アザゼル)</h1>
 
 # 💻 Tech Stack
 
